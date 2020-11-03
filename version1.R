@@ -12,6 +12,9 @@ plot <- ggplot + aes(x= cord, y = puunt)+
 # aqui trabaja geral
 skjahsj 
 
+nindkdnkdnkndknd
+dndjjdnjdnjd
+dnkdkdnkdnkd
 
 # aqui trabaja yilberdsd
 hajshall
