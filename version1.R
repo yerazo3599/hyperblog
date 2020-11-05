@@ -6,6 +6,7 @@ data <- import (GINI2010)
 plot <- ggplot + aes(x= cord, y = puunt)+ 
         geom_line + theme_void
         
+
 # Cambio 1
 
 # Cambio 2
@@ -18,8 +19,7 @@ dnkdkdnkdnkd
 
 # aqui trabaja yilberdsd
 hajshall
-Estas viendo esto geral?
-  
+Estas viendo esto geral
   
   function(x,y){
     for(i in 1:56){
@@ -27,4 +27,14 @@ Estas viendo esto geral?
     }
   }
 
+# De ahora en adelante no m�ss procrastinaci�n,
+# por ello, estoy haciendo este archivo de prueba
+# para ver si este archivo se modifica junto con el que tengo
+# en visual studio code
 
+function(x,y) {
+        for (i in 3:17) {
+           plot(x, y)
+           print(paste(names(df), sep = " "))
+        }
+}
