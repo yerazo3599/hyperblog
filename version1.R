@@ -57,3 +57,9 @@ for (i in y:z) {
 names(iris)
  mean(iris$Sepal.Lengt, na.rm=FALSE)
  
+# Gráfico con ggplot2
+p <- ggplot(iris, mapping = aes(x= Sepal.Width, y=Sepal.Width)) + 
+     geom_point()
+p
+names(iris)
+ 
