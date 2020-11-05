@@ -56,3 +56,4 @@ for (i in y:z) {
  install.packages("ggplot2")
 names(iris)
  mean(iris$Sepal.Lengt, na.rm=FALSE)
+ 
