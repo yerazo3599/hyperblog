@@ -19,5 +19,12 @@ dnkdkdnkdnkd
 # aqui trabaja yilberdsd
 hajshall
 Estas viendo esto geral?
+  
+  
+  function(x,y){
+    for(i in 1:56){
+      
+    }
+  }
 
 
