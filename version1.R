@@ -17,3 +17,21 @@ function(x,y) {
            print(paste(names(df), sep = " "))
         }
 }
+ 
+ print("Hello world")
+
+ y <- 5
+ x <- 6
+ z <- x+y
+ print(z)
+for (i in y:z) {
+   print(i, z+1)
+}
+
+ library(tidyverse)
+ library(ggplot2)
+ head (iris)
+ plot(iris)
+ install.packages("ggplot2")
+names(iris)
+ mean(iris$Sepal.Lengt, na.rm=FALSE)
