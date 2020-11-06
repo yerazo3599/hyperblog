@@ -63,5 +63,7 @@ p <- ggplot(iris, mapping = aes(x= Sepal.Width, y=Sepal.Width)) +
 p
 names(iris)
  
- #commit1 
- Prueba para ver si sí sirven los checkout nombre.archivo para volver en el tiempo
+ #commit 1 de checout 
+
+ #comit 2 de checout
+ Cambios después de verificar que el git checout nombre.archivo SÍ FUNCIONA
