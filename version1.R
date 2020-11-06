@@ -67,3 +67,8 @@ names(iris)
 
  #comit 2 de checout
  Cambios después de verificar que el git checout nombre.archivo SÍ FUNCIONA
+ 
+ $dsdksdks
+ dsdsjd
+ fot d
+ 
